@@ -1,7 +1,9 @@
 # Employee-Database-Application
 This project involves creating an advanced Employee Database Application in Python, building upon the foundations laid in homework 4. The application is designed to manage and process data for various types of employees within an organization. The program operates on data stored in "empdata.dat" and provides a user-friendly interface for interacting with the employee database.
 
-#Features1. Add a New Employee (Option 1):
+#Features
+
+1. Add a New Employee (Option 1):
 Accepts input for new employees based on employee type.
 Temporary objects are stored in an "object container" and written to a new database upon program exit.
 
